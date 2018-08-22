@@ -1,0 +1,1 @@
+# TestCafe---How-to-log-elements-count-to-Console
